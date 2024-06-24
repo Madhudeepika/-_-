@@ -20,3 +20,19 @@
 **Features**
 - Calculates BMI based on height (in meters) and weight (in kilograms).
 - Provides a health status message (underweight, normal weight, overweight, or obese).
+
+## Task 3: Random Password Generator
+**Description**
+- Created a random password generator to generate secure passwords with specified length and complexity.
+
+**Features**
+- Generates random passwords of variable length.
+- Customizable password complexity (uppercase letters, lowercase letters, digits, special characters).
+
+## Task 4: Weather App
+**Description**
+- Developed a weather application that fetches current weather information based on user-provided location using OpenWeatherMap API.
+
+**Features**
+- Retrieves and displays current weather conditions (temperature, humidity, wind speed, etc.).
+- Accepts user input for location (city name).
